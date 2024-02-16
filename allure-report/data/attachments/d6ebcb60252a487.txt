@@ -1,0 +1,4 @@
+{
+  "using": "xpath",
+  "value": ".//i[contains(., \"Logout\") and not(.//i)]"
+}
